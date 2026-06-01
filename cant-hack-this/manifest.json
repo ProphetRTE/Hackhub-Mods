@@ -1,0 +1,10 @@
+{
+    "id": "cant-hack-this",
+    "name": "cant-hack-this",
+    "version": "1.0.0",
+    "apiVersion": 1,
+    "author": "AEV1ridis",
+    "description": "TBD",
+    "permissions": ["filesystem", "network", "events", "mail", "bank", "shell", "ui"],
+    "dependencies": []
+}
